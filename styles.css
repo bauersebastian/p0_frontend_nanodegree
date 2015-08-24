@@ -7,8 +7,6 @@ body {
   max-width: 500px;
   margin: 0 auto;
 }
-
-
 /* HEADING */
 
 .header-content {
@@ -35,7 +33,6 @@ h1 {
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;
 }
-
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 380px) {
@@ -67,8 +64,6 @@ h1 {
     padding-top: 5px;
   }
 }
-
-
 /* MAIN SECTIONS */
 
 .hero {
@@ -90,7 +85,15 @@ h1 {
 
 .iama {
   max-width: 100%;
-  color: #969696;
+  color: #c1c1c1;
+  letter-spacing: 0.05em;
+  font-size: 20px;
+  margin: 0;
+}
+
+.intro-line {
+  max-width: 100%;
+  color: #00868B;
   letter-spacing: 0.05em;
   font-size: 20px;
   margin: 0;
